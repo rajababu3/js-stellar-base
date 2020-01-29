@@ -1,7 +1,5 @@
 /node_modules/
 /tmp/
-/lib/
-/dist/
-/coverage/
+/.vscode/
 /jsdoc/
 .DS_Store
